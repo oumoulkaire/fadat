@@ -1,0 +1,62 @@
+.header nav{
+    border-bottom: 2px solid greenyellow;
+    
+}
+.header nav div ul li a{
+    color: white;
+}
+#section1-Form{
+    background-color: green;
+    border-radius: 10px;
+    
+}
+
+.section1-check{
+    margin-bottom: 40px;
+}
+
+.image_bg{
+   background-image: url(bg.jpeg);
+
+   
+   background-attachment: fixed;
+   background-size:cover;
+  
+}
+.couleur{
+    background-color: black;
+    color: white;
+   
+}
+.dark{
+    margin-left: 50%;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+
+   
+}
+.bleu{
+    margin-left:400px;
+}
+.img-thumbnail{
+    width: 700px;
+    height: 400px;
+}
+.menu{
+    background-color: green;
+}
+.noir{
+    background-color: green;
+    color: honeydew;
+}
+.page{
+    background-color: green; 
+}
+.ligne{
+    background-color: black;
+    color: white
+}
+.mi{
+    display: flex;
+}
